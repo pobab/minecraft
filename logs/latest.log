@@ -1,0 +1,35 @@
+[14:47:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:47:18] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[14:47:19] [ServerMain/INFO]: No existing world data, creating new world
+[14:47:19] [ServerMain/INFO]: Loaded 1174 recipes
+[14:47:19] [ServerMain/INFO]: Loaded 1271 advancements
+[14:47:20] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[14:47:20] [Server thread/INFO]: Loading properties
+[14:47:20] [Server thread/INFO]: This server is running Paper version git-Paper-493 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: a6b6ecd)
+[14:47:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:47:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:47:21] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[14:47:21] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[14:47:21] [Server thread/INFO]: Default game type: SURVIVAL
+[14:47:21] [Server thread/INFO]: Generating keypair
+[14:47:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:47:21] [Server thread/INFO]: Using default channel type
+[14:47:21] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[14:47:21] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:47:21] [Server thread/INFO]: Preparing level "main"
+[14:47:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:47:25] [Server thread/INFO]: Time elapsed: 84 ms
+[14:47:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:47:26] [Server thread/INFO]: Time elapsed: 86 ms
+[14:47:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:47:26] [Server thread/INFO]: Time elapsed: 48 ms
+[14:47:26] [Server thread/INFO]: Running delayed init tasks
+[14:47:26] [Server thread/INFO]: Done (5.969s)! For help, type "help"
+[14:47:26] [Server thread/INFO]: *************************************************************************************
+[14:47:26] [Server thread/INFO]: This is the first time you're starting this server.
+[14:47:26] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[14:47:26] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[14:47:26] [Server thread/INFO]: *************************************************************************************
+[14:47:26] [Server thread/INFO]: Timings Reset
